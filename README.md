@@ -23,7 +23,7 @@ VisualBeat Sort uses HTML5 Canvas to represent array elements as animated bars t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/VisualBeat-Sort.git
+    git clone https://github.com/gaurib124/VisualBeat-Sort.git
     ```
 2. Open the `index.html` file in your browser to launch the visualization.
 
